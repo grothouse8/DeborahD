@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Vaughan + Co. | Custom Homes by Liz Vaughan",
+  title: "Deborah D | Interior Curation & Design",
   description:
-    "Liz Vaughan has designed and built more than 180 custom homes across Central Ohio. Design. Build. Family.",
+    "Curations by Deborah — bespoke interior design where every surface, texture, and detail is composed to feel irreversibly yours.",
 };
 
 export default function RootLayout({

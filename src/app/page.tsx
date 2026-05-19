@@ -1,5 +1,5 @@
-import VaughanCoMockup from "@/components/VaughanCoMockup";
+import CurationsByDeborah from "@/components/CurationsByDeborah";
 
 export default function Home() {
-  return <VaughanCoMockup />;
+  return <CurationsByDeborah />;
 }
